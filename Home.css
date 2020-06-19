@@ -1,0 +1,57 @@
+.jumbotron {
+    margin-bottom: 4cm;
+}
+.person-wrapper{
+margin-bottom:2cm;
+}
+.profile-pic {
+    width: 50%;
+}
+.btn-primary {
+background-image: none;
+border: none;
+border-radius: 0;
+background-color: #0b48ca;
+}
+h3{
+    margin-bottom: 1cm;
+}
+.class1{
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-size:50px;
+    color:rgb(3, 31, 124);
+}
+.class2{
+    text-align: center;
+    font-style: italic;
+    margin-top: 0px;
+    color:rgb(3, 31, 124);
+    
+}
+.homepara{
+    margin-top: 40px;
+    text-align: justify;
+    font-size: 20px;
+    color: brown;
+
+}
+.feature{
+    color:rgb(3, 31, 124);
+    font-style: oblique;
+}
+.List{
+    color:brown;
+    font-size: 20px;
+}
+.end{
+  background-color: skyblue;
+  width: 100%;
+  height: 40px;
+ 
+  margin-left:0px;
+  margin-right: 0px;
+  
+}
