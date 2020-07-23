@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+first create react app in vs code editor using npm create-react-app 
+this gives node modules source and public folders with many other packages
+add components folder in src folder
 ## Available Scripts
 
 In the project directory, you can run:
